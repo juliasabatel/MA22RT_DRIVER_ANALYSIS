@@ -31,3 +31,10 @@ Comparison of drivers A and B by filtering by maximum, minimum and average value
 
 https://user-images.githubusercontent.com/29893993/207406246-4c84868f-52c7-47ea-a093-4bf753fcc165.mov
 
+
+
+The graph of the video above belongs to the acceleration of the driver A, the map is segmented by colors so that both the acceleration and other values such as speed etc. are ordered in red tones the highest values and in greenish tones the lowest values. 
+
+In this map an exact point is drawn by means of the lower graph, so you can visualize exactly where you are. It can also be done in the opposite way, from an exact point on the map to obtain the speed, acceleration, braking...
+
+
