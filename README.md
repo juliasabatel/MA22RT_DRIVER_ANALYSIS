@@ -9,4 +9,13 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 
 # TOOLS ⚙️
 
+-	RaceStudio 3 (software)
+
+-	Pandas, Numpy
+
+-	Power BI
+
+-	Ploty (library)
+
+-	Matolip (library)
 
