@@ -1,4 +1,4 @@
-# MA22RT_DRIVER_ANALYSIS
+# MA22RT_DRIVER_ANALYSIS 🏎
 
 Driver analysis of the MART FS team during the Formula Student Spain race, last race of the 2021/2022 season.
 
@@ -18,4 +18,7 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 -	Ploty (library)
 
 -	Matolip (library)
+
+
+# WHAT CAN BE DONE 🔥
 
