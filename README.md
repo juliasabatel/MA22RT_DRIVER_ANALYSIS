@@ -22,3 +22,12 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 
 # WHAT CAN BE DONE 🔥
 
+Printing of maps by longitude and latitude, aerial plane, dark, white... filtering by speed, acceleration, brake, RMP, longitudinal accelerations, lateral accelerations...
+
+Comparison of drivers A and B by filtering by maximum, minimum and average values.
+
+
+
+
+https://user-images.githubusercontent.com/29893993/207406246-4c84868f-52c7-47ea-a093-4bf753fcc165.mov
+
