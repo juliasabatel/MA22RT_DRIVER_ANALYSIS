@@ -75,7 +75,7 @@ The data obtained by driver A and driver B present an interesting behavior becau
 
 <img width="834" alt="circuit" src="https://user-images.githubusercontent.com/29893993/207610847-c7b31e9e-ee65-4f85-bdd9-09dfad52ae87.png">
 
-# 💨SPEED:
+ 💨SPEED:
 
 Driver A
 
@@ -96,7 +96,7 @@ Driver B
 
 
 
-# ⚡️ACC/BRAKE
+ ⚡️ACC/BRAKE
 
 Driver A:
 
@@ -108,7 +108,7 @@ Driver B:
 Max ACC: 0,79
 Min ACC: -1,28
 
-# 💥RPM
+ 💥RPM
 
 Driver A
 
