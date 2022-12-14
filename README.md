@@ -6,9 +6,8 @@ Endurance is one of the most outstanding **Formula Student** tests, it consists 
 The analysis of the driver consists of a study of speed, acceleration, brake and RPM through the telemetry obtained in the race. We have data from driver A and driver B.
 
 
-<img width="834" alt="speed" src="https://user-images.githubusercontent.com/29893993/207564778-74184fa2-966c-4d73-8bdd-3feeb8f53830.png">
 
-
+https://user-images.githubusercontent.com/29893993/207640905-a6bdf199-b875-4c2e-8766-1f6586ef390c.mov
 
 
 
@@ -26,8 +25,6 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 
 
 
-
-https://user-images.githubusercontent.com/29893993/207640905-a6bdf199-b875-4c2e-8766-1f6586ef390c.mov
 
 
 
