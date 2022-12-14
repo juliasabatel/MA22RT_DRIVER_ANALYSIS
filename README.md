@@ -12,7 +12,7 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 
 
 
-# TOOLS ⚙️
+## TOOLS ⚙️
 
 -	RaceStudio 3 (software)
 
@@ -50,7 +50,7 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 <img width="834" alt="telemetry" src="https://user-images.githubusercontent.com/29893993/207556829-0600c475-8113-470e-bdb7-919ec7b09654.png">
 
-# STEP BY STEP ⭐️
+## STEP BY STEP ⭐️
 
 -  Obtaining the data in .csv format from RaceStudio 3 (software) and dividing the race by laps, having finally 16 .csv files of which the first 8 belong to driver A and the final 8 to driver B.
 
@@ -69,7 +69,7 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 
 
-# CONCLUSION
+## CONCLUSION
 
 The data obtained by driver A and driver B present an interesting behavior because while driver B has more speed and separates him from driver B by 2.22 km/h, driver B has a higher acceleration value and when braking, he has less braking than driver A, making driver A perfect for circuits with many curves while driver B will obtain better results in circuits with more straights.
 
