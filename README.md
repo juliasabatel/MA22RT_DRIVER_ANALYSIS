@@ -75,7 +75,7 @@ The data obtained by driver A and driver B present an interesting behavior becau
 
 <img width="834" alt="circuit" src="https://user-images.githubusercontent.com/29893993/207610847-c7b31e9e-ee65-4f85-bdd9-09dfad52ae87.png">
 
-SPEED:
+# 💨SPEED:
 
 Driver A
 
@@ -94,4 +94,34 @@ Driver B
 
 -	Av. SPEED: 56,26 Km/h
 
+
+
+# ⚡️ACC/BRAKE
+
+Driver A:
+
+- Max ACC: 0,69
+
+- Min ACC: 0,86
+
+Driver B:
+Max ACC: 0,79
+Min ACC: -1,28
+
+# 💥RPM
+
+Driver A
+
+- Max ACC: 12,25
+
+- Min ACC: 0,86
+
+- Av. RPM 8
+
+Driver B
+- Max ACC: 11,67
+
+- Min ACC: 3,25
+
+- Av. RPM: 8,27
 
