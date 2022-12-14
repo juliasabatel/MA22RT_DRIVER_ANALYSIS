@@ -63,6 +63,9 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 - Once the fast laps of each driver are determined (driver A is LAP5 and driver B is LAP8), and the clean values are obtained, the printing of different graphs that visually help the study of the driver's behavior is carried out.
 
+- After visualizing the most relevant data, we proceed to export the clean .csv to power BI (microsoft tool) to make interactive graphs and easily select the values.
 
 <img width="834" alt="speed_AB" src="https://user-images.githubusercontent.com/29893993/207568812-aa599a20-f2b6-44d6-8239-31c37eea9f82.png">
+
+
 
