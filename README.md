@@ -27,7 +27,7 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 
 # WHAT CAN BE DONE 🔥
 
-Printing of maps by longitude and latitude, aerial plane, dark, white... filtering by speed, acceleration, brake, RMP, longitudinal accelerations, lateral accelerations...
+Printing of maps by longitude and latitude, aerial plane, dark, white... filtering by speed, acceleration, brake, RMP, longitudinal accelerations, lateral accelerations... 
 
 Comparison of drivers A and B by filtering by maximum, minimum and average values.
 
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/29893993/207554415-ea66182b-7f8b-46a7-
 
 
 
-The graph of the video above belongs to the acceleration of the driver A, the map is segmented by colors so that both the acceleration and other values such as speed etc. are ordered in red tones the highest values and in greenish tones the lowest values. 
+The graph of the video above belongs to the acceleration of the driver A, the map is segmented by colors so that both the acceleration and other values such as speed etc. are ordered in red tones the highest values and in greenish tones the lowest values (Made with PowerBI). 
 
 On this map an exact point is taken from the lower graph, so you can see exactly where you are. It can also be done in the opposite way, from an exact point on the map to obtain the speed, acceleration, braking and other values that have previously been collected by the telemetry of the car.
 
