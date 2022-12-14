@@ -73,56 +73,6 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 The data obtained by driver A and driver B present an interesting behavior because while driver B has more speed and separates him from driver B by 2.22 km/h, driver B has a higher acceleration value and when braking, he has less braking than driver A, making driver A perfect for circuits with many curves while driver B will obtain better results in circuits with more straights.
 
-<img width="834" alt="circuit" src="https://user-images.githubusercontent.com/29893993/207610847-c7b31e9e-ee65-4f85-bdd9-09dfad52ae87.png">
 
-# 💨SPEED:
-
-Driver A
-
--	Max SPEED: 83,81 Km/h
-
--	Min SPEED 31,96 Km/h
-
--	Av. SPEED 56,26 Km/h
-
-
-Driver B
-
--	Max SPEED: 91,02 Km/h
-
--	Min SPEED 28,58 Km/h
-
--	Av. SPEED: 56,26 Km/h
-
-
-
-# ⚡️ACC/BRAKE
-
-Driver A:
-
-- Max ACC: 0,69
-
-- Min ACC: 0,86
-
-Driver B:
-Max ACC: 0,79
-Min ACC: -1,28
-
-# 💥RPM
-
-Driver A
-
-- Max ACC: 12,25
-
-- Min ACC: 0,86
-
-- Av. RPM 8
-
-Driver B
-- Max ACC: 11,67
-
-- Min ACC: 3,25
-
-- Av. RPM: 8,27
 
 <img width="807" alt="results" src="https://user-images.githubusercontent.com/29893993/207614175-82455016-e437-4870-aad6-3ac12764ce55.png">
