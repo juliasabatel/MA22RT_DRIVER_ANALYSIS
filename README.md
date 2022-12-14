@@ -2,7 +2,7 @@
 
 Driver analysis of the MART FS team during the Formula Student Spain race, last race of the 2021/2022 season.
 
-Endurance is one of the most outstanding Formula Student tests, it consists of a 22km timed race with a mandatory driver change in the middle, so there is an A and B driver.
+Endurance is one of the most outstanding **Formula Student** tests, it consists of a 22km timed race with a mandatory driver change in the middle, so there is an A and B driver.
 The analysis of the driver consists of a study of speed, acceleration, brake and RPM through the telemetry obtained in the race. We have data from driver A and driver B.
 
 
@@ -29,7 +29,7 @@ The analysis of the driver consists of a study of speed, acceleration, brake and
 
 Printing of maps by longitude and latitude, aerial plane, dark, white... filtering by speed, acceleration, brake, RMP, longitudinal accelerations, lateral accelerations... 
 
-Comparison of drivers A and B by filtering by maximum, minimum and average values.
+Comparison of **drivers A and B** by filtering by maximum, minimum and average values.
 
 
 
@@ -55,7 +55,7 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 -  Obtaining the data in .csv format from RaceStudio 3 (software) and dividing the race by laps, having finally 16 .csv files of which the first 8 belong to driver A and the final 8 to driver B.
 
 
-- Import into Python, where the cleaning of the different .csv files has been carried out, especially of the fast lap of the drivers A and B.
+- Import into Python, where the cleaning of the different .csv files has been carried out, especially of the **fast lap** of the drivers A and B.
 
 
 - Exploration of the different files, through which we have obtained the values to filter by lap, obtaining the fastest lap (in this case, it has been done by speed).
