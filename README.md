@@ -125,3 +125,4 @@ Driver B
 
 - Av. RPM: 8,27
 
+<img width="807" alt="results" src="https://user-images.githubusercontent.com/29893993/207614175-82455016-e437-4870-aad6-3ac12764ce55.png">
