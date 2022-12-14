@@ -1,6 +1,6 @@
 # MA22RT_DRIVER_ANALYSIS 🏎
 
-Driver analysis of the MART FS team during the Formula Student Spain race, last race of the 2021/2022 season.
+**Driver analysis of the MART FS** team during the Formula Student Spain race, last race of the 2021/2022 season.
 
 Endurance is one of the most outstanding **Formula Student** tests, it consists of a 22km timed race with a mandatory driver change in the middle, so there is an A and B driver.
 The analysis of the driver consists of a study of speed, acceleration, brake and RPM through the telemetry obtained in the race. We have data from driver A and driver B.
@@ -52,7 +52,7 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 ## STEP BY STEP ⭐️
 
--  Obtaining the data in .csv format from RaceStudio 3 (software) and dividing the race by laps, having finally 16 .csv files of which the first 8 belong to driver A and the final 8 to driver B.
+-  Obtaining the data in `.csv` format from RaceStudio 3 (software) and dividing the race by laps, having finally 16 .csv files of which the first 8 belong to driver A and the final 8 to driver B.
 
 
 - Import into Python, where the cleaning of the different .csv files has been carried out, especially of the **fast lap** of the drivers A and B.
@@ -63,7 +63,7 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 - Once the fast laps of each driver are determined (driver A is LAP5 and driver B is LAP8), and the clean values are obtained, the printing of different graphs that visually help the study of the driver's behavior is carried out.
 
-- After visualizing the most relevant data, we proceed to export the clean .csv to power BI (microsoft tool) to make interactive graphs and easily select the values.
+- After visualizing the most relevant data, we proceed to export the clean `.csv` to power BI (microsoft tool) to make interactive graphs and easily select the values.
 
 <img width="834" alt="speed_AB" src="https://user-images.githubusercontent.com/29893993/207568812-aa599a20-f2b6-44d6-8239-31c37eea9f82.png">
 
