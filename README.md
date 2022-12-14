@@ -69,3 +69,5 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 
 
+The data obtained by driver A and driver B present an interesting behavior because while driver B has more speed and separates him from driver B by 2.22 km/h, driver B has a higher acceleration value and when braking, he has less braking than driver A, making driver A perfect for circuits with many curves while driver B will obtain better results in circuits with more straights.
+
