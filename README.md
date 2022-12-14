@@ -28,7 +28,11 @@ Comparison of drivers A and B by filtering by maximum, minimum and average value
 
 
 
-https://user-images.githubusercontent.com/29893993/207406246-4c84868f-52c7-47ea-a093-4bf753fcc165.mov
+
+
+https://user-images.githubusercontent.com/29893993/207554415-ea66182b-7f8b-46a7-8227-8d4e420ef24c.mov
+
+
 
 
 
@@ -39,5 +43,6 @@ On this map an exact point is taken from the lower graph, so you can see exactly
 For a more accurate comparison, and to obtain conclusions, drivers A and B have been compared in the same graph in which the green color corresponds to driver A and the purple color to driver B.
 The upper graph belongs to the speed, the second to the acceleration and the third belongs to the longitudinal acceleration through which brake has been obtained.
 
+<img width="834" alt="telemetry" src="https://user-images.githubusercontent.com/29893993/207556829-0600c475-8113-470e-bdb7-919ec7b09654.png">
 
 
