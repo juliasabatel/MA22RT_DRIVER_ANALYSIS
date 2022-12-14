@@ -52,10 +52,10 @@ The upper graph belongs to the speed, the second to the acceleration and the thi
 
 ## STEP BY STEP ⭐️
 
--  Obtaining the data in `.csv` format from RaceStudio 3 (software) and dividing the race by laps, having finally 16 .csv files of which the first 8 belong to driver A and the final 8 to driver B.
+-  Obtaining the data in `.csv` format from RaceStudio 3 (software) and dividing the race by laps, having finally 16 `.csv` files of which the first 8 belong to driver A and the final 8 to driver B.
 
 
-- Import into Python, where the cleaning of the different .csv files has been carried out, especially of the **fast lap** of the drivers A and B.
+- Import into Python, where the cleaning of the different `.csv` files has been carried out, especially of the **fast lap** of the drivers A and B.
 
 
 - Exploration of the different files, through which we have obtained the values to filter by lap, obtaining the fastest lap (in this case, it has been done by speed).
